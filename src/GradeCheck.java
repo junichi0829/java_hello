@@ -13,15 +13,15 @@ public class GradeCheck {
 		avg = total / 3.0;
 		
 		if (avg >= 90) {
-			System.out.println("수 입니다。");
+			System.out.println("秀 입니다。");
 		} else if (avg >= 80) {
-			System.out.println("우 입니다。");
+			System.out.println("優 입니다。");
 		} else if (avg >= 70) {
-			System.out.println("미 입니다。");
+			System.out.println("美 입니다。");
 		} else if (avg >= 60 ) {
-			System.out.println("양 입니다。");
+			System.out.println("良 입니다。");
 		} else {
-			System.out.println("가 입니다。");
+			System.out.println("可 입니다。");
 		}
 		
 	}
