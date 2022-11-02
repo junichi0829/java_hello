@@ -2,8 +2,9 @@
 public class Star {
 
 	public static void main(String[] args) {
-		starPrint(3);
-		starPrint(7);		
+//		starPrint(3);
+//		starPrint(7);	
+		starPrint(5);
 		/*
 		for (int i = 1; i <= 5; i++) {
 			

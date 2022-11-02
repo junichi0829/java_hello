@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Junichi {
+public class GradeMain {
+
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
@@ -13,4 +14,5 @@ public class Junichi {
         System.out.println("平均은 " + me.average());
         System.out.println(me.getGrade());
 	}
+
 }
